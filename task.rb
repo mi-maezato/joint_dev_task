@@ -179,7 +179,7 @@ class UserQ17
     puts <<~TEXT
     名前：#{@name}
     年齢：#{@age}
-    性別：#{gender}
+    性別：#{@gender}
     TEXT
   end
 
